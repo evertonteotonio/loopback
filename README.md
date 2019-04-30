@@ -4,7 +4,7 @@
 [![Module LTS Adopted'](https://img.shields.io/badge/Module%20LTS-Adopted-brightgreen.svg?style=flat)](http://github.com/CloudNativeJS/ModuleLTS)
 [![IBM Support](https://img.shields.io/badge/IBM%20Support-Frameworks-brightgreen.svg?style=flat)](http://ibm.biz/node-support)
 
-**This module is in Active LTS mode, new features are no longer accepted.**
+**This module is in Maintenance LTS mode, new features are no longer accepted, and only receives critical bug fixes.**
 <br/>(See [Module Long Term Support Policy](#module-long-term-support-policy)
 below.)
 
@@ -38,15 +38,15 @@ For more details, see [https://loopback.io/](https://loopback.io/).
 
 ## Module Long Term Support Policy
 
-LoopBack 3.x is now in active LTS.
+LoopBack 3.x is now in Maintenance LTS.
 
 This module adopts the [Module Long Term Support (LTS)](http://github.com/CloudNativeJS/ModuleLTS) policy, with the following End Of Life (EOL) dates:
 
 | Version    | Status          | Published | EOL                  |
 | ---------- | --------------- | --------- | -------------------- |
 | LoopBack 4 | Current         | Oct 2018  | Apr 2021 _(minimum)_ |
-| Loopback 3 | Active LTS      | Dec 2016  | Dec 2020             |
-| Loopback 2 | Maintenance LTS | Jul 2014  | Apr 2019             |
+| LoopBack 3 | Maintenance LTS | Dec 2016  | Dec 2020             |
+| LoopBack 2 | End-of-Life LTS | Jul 2014  | Apr 2019             |
 
 Learn more about our LTS plan in [docs](https://loopback.io/doc/en/contrib/Long-term-support.html).
 
